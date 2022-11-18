@@ -18,9 +18,9 @@ div.dotted {
   width: 100px;
 }
 
-ul {
+ul.a {
   list-style-type: square;
 }
-ol {
+ol.b {
   list-style-type: upper-alpha;
 }
