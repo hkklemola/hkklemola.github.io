@@ -3,7 +3,7 @@ body {
   color: white;
 }
 
-h.solid {
+h1.solid {
   border-color: white;
   border-style: solid;
 }
