@@ -6,7 +6,7 @@ body {
 h1.solid {
   border-color: white;
   border-style: solid;
-  width: 100px;
+  width: 200px;
 }
 
 p {
