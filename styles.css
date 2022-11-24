@@ -3,8 +3,7 @@ body {
   color: white;
 }
 
-h1.solid {
-  font-size: 20px;
+h.solid {
   border-color: white;
   border-style: solid;
 }
