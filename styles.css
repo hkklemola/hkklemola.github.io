@@ -6,6 +6,9 @@ body {
 h1 {
   font-size: 20px;
 }
+#h.solid {
+  border-style: solid;
+}
 
 p {
   background-color: white;
